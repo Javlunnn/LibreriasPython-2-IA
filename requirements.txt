@@ -1,0 +1,8 @@
+fpdf2
+reportlab
+numpy
+pandas
+matplotlib
+requests
+flask
+scikit-learn
